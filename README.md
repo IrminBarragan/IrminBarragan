@@ -14,14 +14,14 @@ I'm a computer systems engineering student at ITCH with a deep passion for techn
 
 I'm currently familiar with:
 
-- 🖥️ Java
-- 💻 Python
-- 🌐 HTML/CSS
+- Java
+- Python
+- HTML/CSS
 
 ## Languages
 
-- 🇪🇸 ¡Hablo español! (I speak Spanish too)
-- 🇬🇧 Learning English (A1 level)
+- Hablo español!
+- Learning English (A1 level)
 Thanks for visiting my GitHub profile! 🚀
 
 <!--

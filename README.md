@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+About Me
+🎓 I'm currently pursuing my Bachelor's degree in Computer Systems Engineering.
+🚀 I'm passionate about technology and enjoy staying up to date with the latest advancements in the field.
+💡 I love learning new technologies and applying them to solve real-world problems.
+🌐 I'm enthusiastic about web development, software engineering, and open-source projects.
 <!--
 **IrminBarragan/IrminBarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

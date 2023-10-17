@@ -4,7 +4,7 @@ I'm a computer systems engineering student at ITCH with a deep passion for techn
 
 ## About Me
 
-- 🎓 I'm currently pursuing my degree in computer systems engineering at ITCH (Technological Institute of Chetumal).
+- 🎓 I'm currently pursuing my degree in computer systems engineering at ITCH (Technological Institute of Chilpancingo).
 - 💡 I have a strong interest in learning and exploring new technologies.
 - 🌱 I'm constantly working on improving my programming skills.
 - 🌍 I'm eager to collaborate on open-source projects related to my field.
